@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vehicle_card">Vehicle Card</string>
+    <string name="logout">Logout</string>
+    <string name="machine_card">Machine Card</string>
+    <string name="search">Search</string>
+    <string name="enter_updated_information">Enter updated information</string>
+    <string name="update">Update</string>
+    <string name="enter_something">Enter something</string>
+</resources>
